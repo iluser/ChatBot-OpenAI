@@ -11,3 +11,6 @@ Sampel untuk membuat chatbot menggunakan API dari openai.com
   > npm install
 - untuk menjalankan program ketik
   > node index.js
+   
+## Gambar
+  ![hasil](https://i.ibb.co/dDkR5V7/fileku.jpg)

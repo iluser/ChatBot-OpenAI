@@ -12,7 +12,7 @@ console.log('Masukkan Perintah:');
 const command = readlineSync.prompt();
 const spinner = ora('Loading...').start();
 const prompt = command;
-const model = 'text-davinci-002';
+const model = 'text-davinci-003';
 
 const options = {
     method: 'POST',
